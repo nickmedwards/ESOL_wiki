@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7c9ed54955d5c63f",
+        "id": "9c945efbd4c359e4",
         "type": "tabs",
         "children": [
           {
-            "id": "9802e04b7ca822c7",
+            "id": "ad807d8935b071f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Git"
+            }
+          },
+          {
+            "id": "5ab5abded06ad84d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,15 +194,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "9802e04b7ca822c7",
+  "active": "5ab5abded06ad84d",
   "lastOpenFiles": [
-    "git.md",
-    "Windows PowerShell.md",
-    "Visual Studio Code.md",
+    "Git.md",
     "Welcome.md",
     "Visual Studio.md",
+    "Visual Studio Code.md",
+    "Windows PowerShell.md",
     "Untitled.base",
-    "Git.md",
+    "git.md",
     "Git"
   ]
 }
