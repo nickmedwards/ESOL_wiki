@@ -34,10 +34,13 @@ To create run the following
 2. `mkdir source\repos`
 3. `cd .\source\repos\`
 Once in your `source\repos\` directory run, `git clone https://github.com/your_github_username/ESOL_wiki.git`.
+
+### 4. Create an upstream repo
+Again, this will make more sense in hindsight, run, `git remote add upstream https://github.com/nickmedwards/ESOL_wiki.git`.
 ## Obsidian.md
-### 4. Install Obsidian.md
+### 5. Install Obsidian.md
 Install Obsidian for your OS by following the link on [this page](https://obsidian.md/download).
-### 5. Open the ESOL_wiki directory as a vault
+### 6. Open the ESOL_wiki directory as a vault
 If you have no vaults connected, you'll be presented with the following window:
 ![Vault Manager|394](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/vault_manager.png?raw=true)
 

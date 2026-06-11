@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Commands.md",
+                "file": "git/GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "GitHub"
             }
           }
         ]
@@ -186,21 +186,21 @@
   "active": "bc1e37a8b352a9ed",
   "lastOpenFiles": [
     "git/Install.md",
+    "git/main.base",
+    "git.md",
+    "git/Contributing to the wiki.md",
+    "README.md",
     "git/Commands.md",
     "Visual Studio.md",
     "Visual Studio Code.md",
     "Obsidian.md",
     "Windows PowerShell.md",
     "Welcome.md",
-    "README.md",
     "main.base",
-    "git.md",
     "images/Images.md",
-    "git/Contributing to the wiki.md",
     "git/GitHub.md",
     "images/README/default_pull.png",
     "images/README/Unconfirmed 671350.crdownload",
-    "git/main.base",
     "images/README/default_editor.png",
     "images/README/Unconfirmed 899187.crdownload",
     "git",
