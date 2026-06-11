@@ -6,7 +6,6 @@
       {
         "id": "3df51fd97087c6ab",
         "type": "tabs",
-        "dimension": 60.31879194630873,
         "children": [
           {
             "id": "bc1e37a8b352a9ed",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Commands.md",
+                "file": "git/Contributing to the wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6ebe660cc9e75926",
-        "type": "tabs",
-        "dimension": 39.68120805369127,
-        "children": [
-          {
-            "id": "086d76da10d0ae42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
+              "title": "Contributing to the wiki"
             }
           }
         ]
@@ -207,14 +185,18 @@
   },
   "active": "bc1e37a8b352a9ed",
   "lastOpenFiles": [
-    "git/Install.md",
     "git/Contributing to the wiki.md",
+    "git/GitHub.md",
     "git/Commands.md",
-    "Welcome.md",
-    "git/main.base",
-    "Untitled.md",
-    "main.base",
+    "git.md",
     "README.md",
+    "git/Install.md",
+    "images/Images.md",
+    "images/README/default_pull.png",
+    "images/README/Unconfirmed 671350.crdownload",
+    "git/main.base",
+    "Welcome.md",
+    "main.base",
     "images/README/default_editor.png",
     "images/README/Unconfirmed 899187.crdownload",
     "Visual Studio Code.md",

@@ -1,3 +1,4 @@
+Here are useful [[git]] cli commands!
 ## add
 Add files to git current commit. 
 Usually used with `-A` ie, `git add -A`. This option adds all tracked and untracked files to commit.
@@ -12,7 +13,8 @@ Try to apply the commits from the current branch to another.
 Usually run with a remote, making this command upload the changes to a remote repo ie, `git push origin contributing`.
 ## pull
 Try to apply the commits from another branch to the current one.
-Usually run with a remote, making this command download the changes from a remote repo ie, `git push upstream main`.
+It is useful to 
+Usually run with a remote, making this command download the changes from a remote repo ie, `git push upstream main --rebase`.
 ## rebase
 ## checkout
 ## switch

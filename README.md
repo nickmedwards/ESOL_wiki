@@ -20,6 +20,12 @@ Vim is annoying, when installing you'll probably want to change the commit messa
 ![Git Installer Editor|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_editor.png?raw=true)
 
 Or if git is already installed, by running `git config --global core.editor "code --wait"`.
+
+Rebasing gives you more control than merging. In the windows installer, make all pull commands default to rebase in the following window by selecting `Rebase`.
+![Git Installer Pull Behavior|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_pull.png?raw=true)
+
+Or if git is already installed, by running `git config --global pull.rebase true`.
+
 ### 2. Create a fork
 This step will make more sense in hindsight. At the top of this page, click `Fork`. On the page, leave everything as default and click `Create fork`.  
 ### 3. Clone your fork
