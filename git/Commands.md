@@ -19,6 +19,11 @@ Usually run with a remote, making this command download the changes from a remot
 ## checkout
 ## switch
 ## remote
+## config
+Entry point to configuring your git cli.
+Eg, making default pull behavior rebase, `git config --global pull.rebase true`.
+`--global` changes the global configuration.
+See your local config by running, `git config --list`, and your global config by running, `git config --list --global`.
 
 
 PS C:\Users\nmedwards2\ESOL_wiki> git init
