@@ -18,6 +18,7 @@ Or if git is already installed, by running `git config --global init.defaultBran
 
 Vim is annoying, when installing you'll probably want to change the commit message editor to VSCode. In the installer, you'll come across a page like the following. Use the dropdown to select VSCode.
 ![Git Installer Editor|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_editor.png?raw=true)
+
 Or if git is already installed, by running `git config --global core.editor "code --wait"`.
 ### 2. Create a fork
 This step will make more sense in hindsight. At the top of this page, click `Fork`. On the page, leave everything as default and click `Create fork`.  

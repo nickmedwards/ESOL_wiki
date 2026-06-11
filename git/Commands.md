@@ -1,30 +1,22 @@
-
-# Commands
-
 ## add
 Add files to git current commit. 
 Usually used with `-A` ie, `git add -A`. This option adds all tracked and untracked files to commit.
 To add specific files, use a space separated list ie, `git add .\foo.md .\directory\bar.md`.
 ## commit
 Close current commit, start next commit. 
-Usually 
+Usually run with `-a` and `-m` ie, `git commit -a -m "quick description"`.
+`-a` adds all files tracked by git to the commit.
+`-m` allows you to write the commit message in the terminal.
 ## push
+Try to apply the commits from the current branch to another.
+Usually run with a remote, making this command upload the changes to a remote repo ie, `git push origin contributing`.
 ## pull
+Try to apply the commits from another branch to the current one.
+Usually run with a remote, making this command download the changes from a remote repo ie, `git push upstream main`.
 ## rebase
 ## checkout
 ## switch
-
-
-# Install `git`
-On windows, download git by clicking the "Click here to download" link on [this page](https://git-scm.com/install/windows).
-On mac, download git by following the steps on [this page](https://git-scm.com/install/mac).
-On linux, download git by running `apt-get install git`.
-
-It is convention to have the main branch have the name main. In the installer, you'll come across a page like the following. Select the override option, and make it main.
-![Git Installer|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_branch_name.png?raw=true)
-
-Or if git is already installed, by running `git config --global init.defaultBranch main`.
-
+## remote
 
 
 PS C:\Users\nmedwards2\ESOL_wiki> git init
