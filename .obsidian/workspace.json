@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Contributing to the wiki.md",
+                "file": "git/main.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contributing to the wiki"
+              "title": "main"
             }
           },
           {
@@ -197,15 +197,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee38c4051d1a8b8e",
+  "active": "e6b570efba5390c7",
   "lastOpenFiles": [
+    "git/Contributing to the wiki.md",
     "git/main.md",
     "main.base",
     "Visual Studio Code.md",
     "Visual Studio.md",
     "README.md",
     "Obsidian.md",
-    "git/Contributing to the wiki.md",
     "Welcome.md",
     "git",
     "images/README/vault_manager.png",

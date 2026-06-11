@@ -2,11 +2,12 @@
 # Commands
 
 ## add
-Add files to git commit. 
+Add files to git current commit. 
 Usually used with `-A` ie, `git add -A`. This option adds all tracked and untracked files to commit.
 To add specific files, use a space separated list ie, `git add .\foo.md .\directory\bar.md`.
 ## commit
-
+Close current commit, start next commit. 
+Usually 
 ## push
 ## pull
 ## rebase
