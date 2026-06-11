@@ -12,7 +12,7 @@ On mac, download git by following the steps on [this page](https://git-scm.com/i
 On linux, download git by running `apt-get install git`.
 
 It is convention to have the main branch have the name main. In the installer, you'll come across a page like the following. Select the override option, and make it main.
-![Git Installer](https://github.com/nickmedwards/images/README/default_branch_name.png)
+![Git Installer|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_branch_name.png?raw=true)
 
 Or if git is already installed, by running `git config --global init.defaultBranch main`.
 
@@ -32,7 +32,7 @@ Install Obsidian for your OS by following the link on [this page](https://obsidi
 
 ### 5. Open the ESOL_wiki directory as a vault
 If you have no vaults connected, you'll be presented with the following window:
-![Vault Manager](https://github.com/nickmedwards/images/README/value_manager.png)
+![Vault Manager|394](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/vault_manager.png?raw=true)
 
 Click the `Open` button in the "Open folder as vault" option.
 

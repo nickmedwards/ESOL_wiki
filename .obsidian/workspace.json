@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "febf70f53cf378d4",
+        "id": "ba732e0d286c0906",
         "type": "tabs",
         "children": [
           {
-            "id": "bf376e1de4b397c0",
+            "id": "e1f5c26025b2d12d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,10 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "bf376e1de4b397c0",
+  "active": "e1f5c26025b2d12d",
   "lastOpenFiles": [
-    "main.base",
     "README.md",
+    "main.base",
     "images/README/vault_manager.png",
     "images/README/Screenshot 2026-06-10 202845.png",
     "images/README/default_branch_name.png",
