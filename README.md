@@ -1,5 +1,4 @@
 Welcome to the ESOL wiki! This wiki is run using git and Obsidian.md. Please follow the ESOL wiki install steps to use the wiki. 
-
 # ESOL Wiki Install Steps
 
 ### 0. Use the terminal
@@ -25,7 +24,6 @@ Rebasing gives you more control than merging. In the windows installer, make all
 ![Git Installer Pull Behavior|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_pull.png?raw=true)
 
 Or if git is already installed, by running `git config --global pull.rebase true`.
-
 ### 2. Create a fork
 This step will make more sense in hindsight. At the top of this page, click `Fork`. On the page, leave everything as default and click `Create fork`.  
 ### 3. Clone your fork
@@ -39,7 +37,6 @@ Once in your `source\repos\` directory run, `git clone https://github.com/your_g
 ## Obsidian.md
 ### 4. Install Obsidian.md
 Install Obsidian for your OS by following the link on [this page](https://obsidian.md/download).
-
 ### 5. Open the ESOL_wiki directory as a vault
 If you have no vaults connected, you'll be presented with the following window:
 ![Vault Manager|394](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/vault_manager.png?raw=true)
