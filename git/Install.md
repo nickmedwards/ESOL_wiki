@@ -7,7 +7,7 @@ It is convention to have the main branch have the name main. In the installer, y
 
 Or if git is already installed, by running `git config --global init.defaultBranch main`.
 
-Vim is annoying, when installing you'll probably want to change the commit message editor to VSCode. In the installer, you'll come across a page like the following. Use the dropdown to select VSCode.
+Vim is annoying, when installing you'll probably want to change the commit message editor to [[Visual Studio Code]]. In the installer, you'll come across a page like the following. Use the dropdown to select Visual Studio Code.
 ![Git Installer Editor|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_editor.png?raw=true)
 
 Or if git is already installed, by running `git config --global core.editor "code --wait"`.

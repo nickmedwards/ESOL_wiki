@@ -1,6 +1,4 @@
-
-Before you contribute, please get familiar with [[git]].
-
+Before you contribute, please get familiar with [[git/Commands|git commands]].
 # Set up `upstream`
 In your `ESOL_wiki` directory run, `git remote add upstream https://github.com/nickmedwards/ESOL_wiki.git`.
 
