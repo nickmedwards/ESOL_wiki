@@ -1,4 +1,4 @@
-Welcome to the ESOL wiki! This wiki is run using git and Obsidian.md. Please follow the [ESOL wiki install steps](#ESOL Wiki Install Steps) to use the wiki. 
+Welcome to the ESOL wiki! This wiki is run using git and Obsidian.md. Please follow the ESOL wiki install steps to use the wiki. 
 
 # ESOL Wiki Install Steps
 
