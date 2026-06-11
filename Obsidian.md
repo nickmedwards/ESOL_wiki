@@ -1,0 +1,1 @@
+other folks please add your tips here. i don't know if we will be able to use plugins easily, but we can test that.
