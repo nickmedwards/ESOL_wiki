@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/Contributing to the wiki.md",
+                "file": "Projects/solar-simulator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contributing to the wiki"
+              "title": "solar-simulator"
             }
           }
         ]
@@ -185,14 +185,23 @@
   },
   "active": "9c8f145ba5f7d8c4",
   "lastOpenFiles": [
+    "Projects/Nuclear Siting.md",
+    "Projects/SANDEWIRM.md",
+    "Projects/sCO2 PTES.md",
+    "Projects/solar-simulator.md",
+    "Projects.md",
+    "git.md",
+    "Projects/main.base",
+    "Projects/Battery Degradation.md",
+    "Projects/Heat Pump Dispatch.md",
+    "git/Contributing to the wiki.md",
+    "Projects",
     "SQL.md",
     "git/Pull requests.md",
-    "git/Contributing to the wiki.md",
     "README.md",
     "git/GitHub.md",
     "git/Install.md",
     "git/main.base",
-    "git.md",
     "git/Commands.md",
     "Visual Studio.md",
     "Visual Studio Code.md",
