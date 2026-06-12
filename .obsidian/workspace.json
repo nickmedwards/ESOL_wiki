@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3df51fd97087c6ab",
+        "id": "0076cb05adc300c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8f145ba5f7d8c4",
+            "id": "1a6f53c58089ef49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/solar-simulator.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "solar-simulator"
-            }
-          },
-          {
-            "id": "c9a8a9a74c5a98e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "References"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,14 +179,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "c9a8a9a74c5a98e7",
+  "active": "1a6f53c58089ef49",
   "lastOpenFiles": [
     "Projects/solar-simulator.md",
+    "Languages/cpp.md",
+    "Languages/SQL.md",
+    "Languages/Fortran.md",
+    "Languages/python.md",
+    "TRNSYS.md",
     "References.md",
+    "link.md",
+    "Projects/GPU Accelerating SolTrace.md",
     "References",
     "README.md",
-    "Languages/python.md",
-    "Projects/GPU Accelerating SolTrace.md",
     "Languages/python/atexit.md",
     "Languages/python/Scripts.md",
     "Languages/python/plt.md",
@@ -221,8 +207,6 @@
     "git.md",
     "Languages/python/Untitled",
     "Languages/python",
-    "Languages/SQL.md",
-    "Languages/cpp.md",
     "Languages",
     "git/Install.md",
     "images/Projects/GPU_Accelerating_SolTrace/speedup_graph.png",
@@ -236,9 +220,6 @@
     "git/Contributing to the wiki.md",
     "git/Commands.md",
     "Projects.md",
-    "Projects/Battery Degradation.md",
-    "Projects/Heat Pump Dispatch.md",
-    "Projects/Nuclear Siting.md",
     "Projects/main.base",
     "images/README/default_pull.png",
     "images/README/default_editor.png",

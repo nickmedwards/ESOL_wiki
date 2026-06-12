@@ -6,4 +6,3 @@ For example:
 1. Solve all kinds of engineering problems.
 2. Make plots.
 3. Manage files (.csv, .txt, .db).
-4. Solve 
