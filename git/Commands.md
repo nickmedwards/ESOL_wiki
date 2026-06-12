@@ -1,3 +1,30 @@
+Here are useful [[git]] cli commands!
+## add
+Add files to git current commit. 
+Usually used with `-A` ie, `git add -A`. This option adds all tracked and untracked files to commit.
+To add specific files, use a space separated list ie, `git add .\foo.md .\directory\bar.md`.
+## commit
+Close current commit, start next commit. 
+Usually run with `-a` and `-m` ie, `git commit -a -m "quick description"`.
+`-a` adds all files tracked by git to the commit.
+`-m` allows you to write the commit message in the terminal.
+## push
+Try to apply the commits from the current branch to another.
+Usually run with a remote, making this command upload the changes to a remote repo ie, `git push origin contributing`.
+## pull
+Try to apply the commits from another branch to the current one.
+It is useful to 
+Usually run with a remote, making this command download the changes from a remote repo ie, `git push upstream main --rebase`.
+## rebase
+## checkout
+## switch
+## remote
+## config
+Entry point to configuring your git cli.
+Eg, making default pull behavior rebase, `git config --global pull.rebase true`.
+`--global` changes the global configuration.
+See your local config by running, `git config --list`, and your global config by running, `git config --list --global`.
+
 
 PS C:\Users\nmedwards2\ESOL_wiki> git init
 Initialized empty Git repository in C:/Users/nmedwards2/ESOL_wiki/.git/

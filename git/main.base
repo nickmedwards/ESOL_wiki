@@ -3,9 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "/"
-    order:
-      - file.name
+        - file.folder == "git"
     sort:
       - property: file.name
-        direction: DESC
+        direction: ASC

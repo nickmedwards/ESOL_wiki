@@ -2,8 +2,6 @@
 Evergreen bootstrappers for older versions
 https://learn.microsoft.com/en-us/visualstudio/releases/2022/release-history#evergreen-bootstrappers
 
-[[Welcome]]
-
 fix not finding cuda
 You can resolve this instantly by manually copying the missing build files into Visual Studio’s build customizations directory. [[1](https://stackoverflow.com/questions/15481314/build-customization-for-cuda-5-0-not-found-in-visual-c)]
 

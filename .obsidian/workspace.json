@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba732e0d286c0906",
+        "id": "0076cb05adc300c7",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f5c26025b2d12d",
+            "id": "1a6f53c58089ef49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "!",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,24 +179,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "e1f5c26025b2d12d",
+  "active": "1a6f53c58089ef49",
   "lastOpenFiles": [
+    "Projects/solar-simulator.md",
+    "Languages/cpp.md",
+    "Languages/SQL.md",
+    "Languages/Fortran.md",
+    "Languages/python.md",
+    "TRNSYS.md",
+    "References.md",
+    "link.md",
+    "Projects/GPU Accelerating SolTrace.md",
+    "References",
     "README.md",
-    "main.base",
+    "Languages/python/atexit.md",
+    "Languages/python/Scripts.md",
+    "Languages/python/plt.md",
+    "Languages/python/numpy.md",
+    "Languages/python/pandas.md",
+    "Languages/python/pip.md",
+    "Languages/python/Interpreter.md",
+    "Languages/python/Install.md",
+    "blog/0. Everything is a tool.md",
+    "blog.md",
+    "Projects/Receiver Lifetime.md",
+    "blog",
+    "git.md",
+    "Languages/python/Untitled",
+    "Languages/python",
+    "Languages",
+    "git/Install.md",
+    "images/Projects/GPU_Accelerating_SolTrace/speedup_graph.png",
+    "images/Projects/GPU Accelerating SolTrace/Screenshot 2026-06-11 151810.png",
+    "images/Projects/GPU_Accelerating_SolTrace/gui_example.png",
+    "images/Projects/GPU Accelerating SolTrace/Screenshot 2026-06-11 151520.png",
+    "images/Projects/GPU_Accelerating_SolTrace",
+    "images/Projects/New folder",
+    "images/Projects",
+    "images/New folder",
+    "git/Contributing to the wiki.md",
+    "git/Commands.md",
+    "Projects.md",
+    "Projects/main.base",
+    "images/README/default_pull.png",
+    "images/README/default_editor.png",
     "images/README/vault_manager.png",
     "images/README/Screenshot 2026-06-10 202845.png",
     "images/README/default_branch_name.png",
-    "images/README/y8Smb.png",
-    "images/README",
-    "images",
-    "Obsidian.md",
-    "Untitled.md",
-    "Windows PowerShell.md",
-    "Visual Studio Code.md",
-    "Visual Studio.md",
-    "git.md",
-    "Git.md",
-    "Welcome.md",
-    "Git"
+    "images/README/y8Smb.png"
   ]
 }

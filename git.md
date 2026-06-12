@@ -1,26 +1,8 @@
 
-### install
+`git` is a cli tool for tracking changes to a directory. It's google docs by hand.
 
-PS C:\Users\nmedwards2\ESOL_wiki> git init
-Initialized empty Git repository in C:/Users/nmedwards2/ESOL_wiki/.git/
-PS C:\Users\nmedwards2\ESOL_wiki> git add -A
-warning: in the working copy of '.obsidian/core-plugins.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of '.obsidian/graph.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'Visual Studio.md', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'Welcome.md', LF will be replaced by CRLF the next time Git touches it
-PS C:\Users\nmedwards2\ESOL_wiki> git commit -a -m "init commit for esol wiki"
-[main (root-commit) 26b4a28] init commit for esol wiki
- 8 files changed, 300 insertions(+)
- create mode 100644 .obsidian/app.json
- create mode 100644 .obsidian/appearance.json
- create mode 100644 .obsidian/core-plugins.json
- create mode 100644 .obsidian/graph.json
- create mode 100644 .obsidian/workspace.json
- create mode 100644 Visual Studio.md
- create mode 100644 Welcome.md
- create mode 100644 create a link.md
-PS C:\Users\nmedwards2\ESOL_wiki> git branch
-* main
-PS C:\Users\nmedwards2\ESOL_wiki> git remote add origin https://github.com/nickmedwards/ESOL_wiki.git
-PS C:\Users\nmedwards2\ESOL_wiki> git push origin main
+For all things `git` see, [[git/main.base|main]].
+
+Instead of tracking author contributions in text, the plan is to let [[git/Pull requests|pull request]] contributions work as a proxy. 
+## Reminder to `pull upstream main`
+On your main branch run, `git pull upstream main`. This keeps your local wiki up to date. Pull main even when you aren't contributing.

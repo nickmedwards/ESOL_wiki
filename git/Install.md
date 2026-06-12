@@ -1,0 +1,19 @@
+Based on your computer's OS follow the steps to install [[git]].
+On windows, download git by clicking the "Click here to download" link on [this page](https://git-scm.com/install/windows).
+On mac, download git by following the steps on [this page](https://git-scm.com/install/mac).
+On linux, download git by running `apt-get install git`.
+
+It is convention to have the main branch have the name main. In the installer, you'll come across a page like the following. Select the override option, and make it main.
+![Git Installer|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_branch_name.png?raw=true)
+
+Or if git is already installed, by running `git config --global init.defaultBranch main`.
+
+Vim is annoying, when installing you'll probably want to change the commit message editor to [[Visual Studio Code]]. In the installer, you'll come across a page like the following. Use the dropdown to select Visual Studio Code.
+![Git Installer Editor|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_editor.png?raw=true)
+
+Or if git is already installed, by running `git config --global core.editor "code --wait"`.
+
+Rebasing gives you more control than merging. In the windows installer, make all [[git/Commands#pull|pull commands]] default to rebase in the following window by selecting `Rebase`.
+![Git Installer Pull Behavior|361](https://github.com/nickmedwards/ESOL_wiki/blob/main/images/README/default_pull.png?raw=true)
+
+Or if git is already installed, by running `git config --global pull.rebase true`.
