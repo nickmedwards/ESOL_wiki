@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/python.md",
+                "file": "Languages/python/atexit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python"
+              "title": "atexit"
             }
           }
         ]
@@ -186,11 +186,18 @@
   "active": "9c8f145ba5f7d8c4",
   "lastOpenFiles": [
     "Languages/python/Scripts.md",
+    "Languages/python/atexit.md",
     "Languages/python/plt.md",
+    "Languages/python/numpy.md",
+    "Languages/python/pandas.md",
     "Languages/python/pip.md",
     "Languages/python/Interpreter.md",
     "Languages/python/Install.md",
+    "blog/0. Everything is a tool.md",
+    "blog.md",
+    "Projects/Receiver Lifetime.md",
     "Languages/python.md",
+    "blog",
     "Projects/GPU Accelerating SolTrace.md",
     "git.md",
     "Languages/python/Untitled",
@@ -218,13 +225,6 @@
     "Projects/sCO2 PTES.md",
     "Projects/main.base",
     "Projects",
-    "git/Pull requests.md",
-    "README.md",
-    "git/GitHub.md",
-    "git/main.base",
-    "Visual Studio.md",
-    "Visual Studio Code.md",
-    "Obsidian.md",
     "images/README/default_pull.png",
     "images/README/default_editor.png",
     "images/README/vault_manager.png",
